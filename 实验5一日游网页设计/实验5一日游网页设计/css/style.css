@@ -1,0 +1,95 @@
+        body {
+        font-family: "微软雅黑";
+    }
+    
+    #container {
+        width: 980px;
+        margin: 0 auto;
+    }
+    
+    #header {
+        height: 56px;
+        text-align: right;
+    }
+    
+    #logo {
+        float: left;
+    }
+    
+    header hr {
+        clear: left;
+    }
+    
+    #sayTrip {
+        height: 450px;
+    }
+    
+    #left {
+        float: left;
+    }
+    
+    #right {
+        float: left;
+        width: 274px;
+        height: 450px;
+        margin-right: 10px;
+    }
+    
+    #p1 {
+        text-align: center;
+    }
+    
+    .s1 {
+        color: orange;
+        font-size: larger;
+    }
+    
+    .s2 {
+        color: orange;
+        font-size: xx-large;
+    }
+    
+    #p2,
+    #p3,
+    #p4 {
+        text-indent: 2em;
+    }
+    
+    #p3 strong {
+        color: #093;
+    }
+    
+    #p4 strong {
+        color: #666;
+    }
+    
+    #iru p {
+        text-indent: 2em;
+    }
+    
+    #comment div img {
+        float: left;
+        margin-right: 10px;
+    }
+    
+    #comment p {
+        margin-block-start: 0;
+        margin-block-end: 0;
+    }
+    
+    .pid {
+        color: #f60;
+        font-size: small;
+        line-height: 30px;
+    }
+    
+    .comm {
+        font-size: small;
+    }
+    
+    .comm span {
+        color: #999;
+    }
+    #footer {
+            text-align: center;
+        }
